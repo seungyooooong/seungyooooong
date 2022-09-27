@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+📨 email: chadange@naver.com
+
+📝 velog: [velog.io/@chadange](https://velog.io/@chadange)
+
+👓 portfolio: [seungyooooong.github.io](https://seungyooooong.github.io/)
+
 <!--
 **seungyooooong/seungyooooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
