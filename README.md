@@ -6,7 +6,7 @@
 
 👓 portfolio: [seungyooooong.github.io](https://seungyooooong.github.io/)
 
-🤷‍♂️ notion: [notion.so/seungyooooong](https://seungyooooong.notion.site/seungyooooong-ffd4a19a5bcd4f4f9a5481e4d32ab2f5?pvs=4)
+🤷‍♂️ notion: [notion.so/seungyooooong](https://seungyooooong.notion.site/Hello-world-3cb7a31da1f844f4a4afb46465f7099b?pvs=4)
 
 <!--
 **seungyooooong/seungyooooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
