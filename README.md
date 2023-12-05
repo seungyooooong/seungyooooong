@@ -4,9 +4,9 @@
 
 📝 velog: <a href="https://velog.io/@chadange" target="_blank">velog.io/@chadange</a>
 
-👓 portfolio: <a href="https://seungyooooong.github.io/" target="_blank">seungyooooong.github.io</a>
-
 🤷‍♂️ notion: <a href="https://seungyooooong.notion.site/Hello-world-3cb7a31da1f844f4a4afb46465f7099b?pvs=4" target="_blank">notion.so/seungyooooong</a>
+
+👓 portfolio: <a href="https://seungyooooong.github.io/" target="_blank">seungyooooong.github.io</a>
 
 <!--
 **seungyooooong/seungyooooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
