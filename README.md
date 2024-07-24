@@ -2,8 +2,6 @@
 
 📨 email: chadange@naver.com
 
-📝 velog: <a href="https://velog.io/@chadange" target="_blank">velog.io/@chadange</a>
-
 👓 portfolio: <a href="https://seungyooooong.github.io/" target="_blank">seungyooooong.github.io</a>
 
 <!--
